@@ -15,6 +15,7 @@ https://doc.ubuntu-fr.org/menulibre
 import os
 os.system('gitkraken &')
 os.system('/opt/google/chrome/google-chrome --profile-directory=Default https://papaly.com/ &')
+os.system('slack &')
 os.system('thunderbird &')
 os.system('/home/lyd/eclipse_light/eclipse &')
 # os.system('gnome-terminal -x "htop" &')
