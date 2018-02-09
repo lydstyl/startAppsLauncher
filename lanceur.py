@@ -13,15 +13,14 @@ https://doc.ubuntu-fr.org/menulibre
 
 
 import os
-# os.system('gnome-terminal -x "htop" &')
+os.system('gitkraken &')
+os.system('/opt/google/chrome/google-chrome --profile-directory=Default https://papaly.com/ &')
 os.system('thunderbird &')
 os.system('/home/lyd/eclipse_light/eclipse &')
+# os.system('gnome-terminal -x "htop" &')
 # os.system('/opt/google/chrome/google-chrome --profile-directory=Default &')
-os.system('/opt/google/chrome/google-chrome --profile-directory=Default https://papaly.com/ &')
-os.system('nautilus &')
+# os.system('nautilus &')
 # os.system('code &')
-os.system('gitkraken &')
-os.system('gedit n.txt &')
-
+# os.system('gedit n.txt &')
 # os.system('~/.dropbox-dist/dropboxd')
 os.system('exit 0')
